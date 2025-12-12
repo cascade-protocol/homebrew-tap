@@ -5,8 +5,7 @@ Official Homebrew tap for [Cascade](https://cascade.fyi) CLI tools.
 ## Installation
 
 ```bash
-brew tap cascade-protocol/tap
-brew install cascade
+brew install cascade-protocol/tap/cascade
 ```
 
 ## Available Formulae
